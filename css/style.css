@@ -483,8 +483,8 @@ a:focus {
 }
 
 .about_section {
-  background-color: #00204a;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 .about_section .heading_container {
@@ -513,7 +513,7 @@ a:focus {
   display: inline-block;
   padding: 10px 45px;
   background-color: #00bbf0;
-  color: #ffffff;
+  color: #000000;
   border-radius: 0px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
